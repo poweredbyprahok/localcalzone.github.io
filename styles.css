@@ -3,11 +3,9 @@
 div {
   font-family: 'JetBrains Mono', monospace;
   font-size: 100%;
-  max-width: 750px;
   font-weight: normal;
   display: block;
   line-height: 1.7;
   margin-top: 20px;
-  margin-left: 34px;
-  margin-right: 34px;  
+  margin-left: 20px;
 }
