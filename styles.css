@@ -1,8 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;300&display=swap');
 
+.headline {
+  font-size: 250%;
+}
+
+.prose {
+  font-size: 120%;
+}  
+
 div {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 250%;
   font-weight: normal;
   display: block;
   line-height: 1.7;
